@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank Moulli Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Cooking Recipe Sharing Website**
+- 🔭 I’m currently working on **Schedullo App**
 
-- 🌱 I’m currently learning **PHP,MySQl,Android Development**
+- 🌱 I’m currently learning **App Devlopment,Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Datrix001?tab=repositories](https://github.com/Datrix001?tab=repositories)
 
