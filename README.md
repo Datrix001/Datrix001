@@ -2,7 +2,7 @@
 <h3 align="center">A passionate App Developer from India</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datrix001&" alt="datrix001" />
+  
 </p>
 
 <p align="left"> <a href="https://twitter.com/@darknightre" target="blank"><img src="https://img.shields.io/twitter/follow/@darknightre?logo=twitter&style=for-the-badge" alt="@darknightre" /></a> </p>
@@ -48,3 +48,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datrix001&show_icons=true&locale=en&layout=compact" alt="datrix001" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datrix001&" alt="datrix001" />
