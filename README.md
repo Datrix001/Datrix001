@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Schedulo](https://github.com/Datrix001/TimeTable-App.git)
 
-- 🌱 I’m currently learning **Flutter,FireBase & SUPABASE**
+- 🌱 I’m currently learning **Flutter, FireBase & SUPABASE**
 
 - 🤝 I’m looking for help with [Schedulo](https://github.com/Datrix001/TimeTable-App.git)
 
@@ -17,7 +17,7 @@
 
 - 📧 How to reach me **mayankcollege01@gmail.com**
 
-- ⚡ Fun fact **I am from Commerce Background now working in Tech Field**
+- ⚡ Fun fact **I am from a Commerce Background and am now working in the Tech Field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
