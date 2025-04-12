@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Schedulo](https://github.com/Datrix001/TimeTable-App.git)
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m currently learning **Flutter,FireBase & SUPABASE**
 
 - 🤝 I’m looking for help with [Schedulo](https://github.com/Datrix001/TimeTable-App.git)
 
