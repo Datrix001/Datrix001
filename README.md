@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@darknightre" target="blank"><img src="https://img.shields.io/twitter/follow/@darknightre?logo=twitter&style=for-the-badge" alt="@darknightre" /></a> </p>
 
-- 🔭 I’m currently working on [Schedulo](https://github.com/Datrix001/TimeTable-App.git)
+- 🔭 I’m currently working on [Schedulo](https://github.com/Datrix001/TimeTable-App.git) & Expenso
 
 - 🌱 I’m currently learning **Flutter, FireBase & SUPABASE**
 
