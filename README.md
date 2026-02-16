@@ -1,51 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mayank Moulli Singh</h1>
-<h3 align="center">A passionate App Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mayank+Moulli+Singh;Flutter+App+Developer+🚀;Building+Finance+Apps+with+Flutter" />
+</h1>
+
+<h3 align="center">A passionate App Developer from India 🇮🇳</h3>
 
 <p align="center">
-  
+  <img src="https://komarev.com/ghpvc/?username=datrix001&label=Profile%20Views&color=36BCF7&style=flat" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/@darknightre" target="blank"><img src="https://img.shields.io/twitter/follow/@darknightre?logo=twitter&style=for-the-badge" alt="@darknightre" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Finance Manager](https://github.com/Datrix001/Finance-Manager) 
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Flutter, FireBase & SUPABASE**
+- 🎓 BCA student with a **Commerce → Tech** background  
+- 📱 Flutter-focused app developer  
+- 🔭 Currently building a **Finance Manager App**  
+- 🌱 Exploring **Firebase & Supabase**  
+- 🤝 Open to collaborations & real-world projects  
 
-- 🤝 I’m looking for help with [Manager](https://github.com/Datrix001/Finance-Manager)
+---
 
-- 💬 Ask me about **Flutter, Firebase, Python, JS**
 
-- 📧 How to reach me **mayankcollege01@gmail.com**
 
-- ⚡ Fun fact **I am from a Commerce Background and am now working in the Tech Field**
+## 🧠 Skills & Tools
 
-<h3 align="left">Connect with me:</h3>
+**Mobile:** Flutter, Dart, Kotlin  
+**Backend:** Firebase, Supabase  
+**Web:** HTML, CSS, JavaScript, Bootstrap  
+**Database:** SQLite, MySQL  
+**Tools:** Git, GitHub, Linux, Figma  
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/darknightre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@darknightre" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mayank-moulli-singh-4a5b542b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank moulli singh" height="30" width="40" /></a>
-<a href="https://instagram.com/mayanksingh_188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayanksingh_188" height="30" width="40" /></a>
+<a href="https://twitter.com/darknightre" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/mayank-moulli-singh-4a5b542b9/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/mayanksingh_188" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=datrix001&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datrix001&show_icons=true&locale=en&layout=compact" alt="datrix001" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datrix001&" alt="datrix001" />
+
+---
+
+## ✨ Philosophy
+
+> *Commerce taught me numbers. Tech taught me how to build with them.*
+
+---
+
