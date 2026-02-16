@@ -1,14 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mayank+Moulli+Singh;Flutter+App+Developer+🚀;Building+Finance+Apps+with+Flutter" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%20👋%20I'm%20Mayank%20Moulli%20Singh;Flutter%20App%20Developer%20🚀;Building%20Finance%20Apps%20with%20Flutter"
+    alt="Typing SVG"
+  />
 </h1>
+
 
 <h3 align="center">A passionate App Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=datrix001&label=Profile%20Views&color=36BCF7&style=flat" />
-</p>
 
----
+
 
 ## 👨‍💻 About Me
 
